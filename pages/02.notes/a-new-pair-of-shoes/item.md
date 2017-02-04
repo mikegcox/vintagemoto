@@ -1,22 +1,23 @@
 ---
 title: 'A new pair of shoes - Metzler knobby shoes'
-summary:
-    enabled: '1'
-    format: short
+date: '12-04-2016 10:23'
 taxonomy:
-    author:
-        - 'Mike Cox'
-    month:
-        - April
+    category:
+        - Stories
+        - Restoration
     tag:
         - Suzuki
         - rm250
         - 'Mark Hurst'
         - tires
         - metzler
-    category:
-        - Stories
-        - Restoration
+    month:
+        - April
+    author:
+        - 'Mike Cox'
+summary:
+    enabled: '1'
+    format: short
 ---
 
 ### An exciting day today in the restoration of the 1984 RM-250 that I have been talking about non-stop .  I acquired a set of Metzler MX5 tires and went and visted my friend Mark Hurst to install them.
