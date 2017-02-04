@@ -1,21 +1,22 @@
 ---
 title: 'So many reasons not to ride'
-summary:
-    enabled: '1'
-    format: short
+date: '15-04-2016 10:28'
 taxonomy:
-    author:
-        - 'Mike Cox'
-    month:
-        - April
+    category:
+        - Stories
     tag:
         - Suzuki
         - rm250
         - 'Mark Hurst'
-        - 'first ride'
         - trailer
-    category:
-        - Stories
+        - 'first ride'
+    month:
+        - April
+    author:
+        - 'Mike Cox'
+summary:
+    enabled: '1'
+    format: short
 ---
 
 ## I just spent a winter restoring a bike and the results are fantastic.  Why not ride it?
