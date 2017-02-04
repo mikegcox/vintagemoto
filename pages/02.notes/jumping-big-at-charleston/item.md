@@ -10,9 +10,9 @@ taxonomy:
     tag:
         - '250'
         - Suzuki
+        - Atikokan
         - Vintage
         - charleston
-        - Atikokan
         - jump
     month:
         - February
