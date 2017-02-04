@@ -1,7 +1,7 @@
 ---
 title: 'A fun day of Motocross at KMMX'
 published: true
-date: '18-09-2016 21:30'
+date: '18-09-2016 21:00'
 metadata:
     description: 'A fun day riding at Kennelly Mountain Motocross'
 taxonomy:
