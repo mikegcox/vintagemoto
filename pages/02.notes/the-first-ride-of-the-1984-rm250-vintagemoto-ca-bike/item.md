@@ -1,23 +1,24 @@
 ---
 title: 'The first ride of the 1984 RM250 VintageMoto.ca Bike'
+date: '13-04-2016 10:27'
+taxonomy:
+    category:
+        - Restoration
+    tag:
+        - Suzuki
+        - rm250
+        - 'mike cox'
+        - restoration
+        - video
+        - 'first ride'
+        - 'rob kern'
+    month:
+        - April
+    author:
+        - 'Mike Cox'
 summary:
     enabled: '1'
     format: short
-taxonomy:
-    author:
-        - 'Mike Cox'
-    month:
-        - April
-    tag:
-        - restoration
-        - 'first ride'
-        - video
-        - Suzuki
-        - rm250
-        - 'rob kern'
-        - 'mike cox'
-    category:
-        - Restoration
 ---
 
 ## Well, here is something a little different... perhaps a little nerdy.
