@@ -2,7 +2,7 @@
 title: 'So how far can you safely jump a 1984 Suzuki?'
 date: '04-02-2017 11:53'
 metadata:
-    description: 'I particularly liked this story as Kent Howerton is telling the story of his championship 1980 season aboard a Suzuki 250'
+    description: 'I took my vintage 1984 RM 250 back to my hometown track in Atikokan to ride with my family and share my awesome piece of memorabilia.  We all took turns pounding laps and hit every jump on the track'
 taxonomy:
     category:
         - Stories
