@@ -18,6 +18,7 @@ taxonomy:
         - February
     author:
         - 'Mike Cox'
+cache_enable: false
 summary:
     enabled: '1'
     format: short
