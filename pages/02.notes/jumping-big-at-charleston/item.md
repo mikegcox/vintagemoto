@@ -35,7 +35,7 @@ The track is called Charleston.  It is named after the company that used it in t
 I think most of the streets of Atikokan were built using this red sand and while it has lost much of it's bright lustre, back in the day, it would stick to and stain everything it made contact with.  When I was a kid, all the streets in town were red from the iron mines.  Once the mines closed, the red streets returned to a more traditional neutral colour, but Charleston still turned everything red.
 
 ![Red dirt](Juniors-Racing-in-Atikokan-1984.jpg?cropResize=800,800){.img-responsive}
-### This is 1984 at a Charleston race.  You can see that red dirt.  Out-of-town racers loved the track but complained incessantly about the permanent staines to their plastic and aluminum parts.  Not to mention their clothing and nasal passages.
+### This is 1984 at a Charleston race.  You can see that red dirt.  Out-of-town racers loved the track but complained incessantly about the permanent stains to their plastic and aluminum parts-not to mention their clothing and nasal passages.
 
 It is really hard to find a picture that really does it justice, but we always had the ugliest bikes at the races.  It seemed no matter how hard you scrub, the bikes still look bad.  It is now thirty-three years later and the oxidized iron sand no longer stains like it did back in the day so my restored 84-RM looks no worse for the wear.
 
