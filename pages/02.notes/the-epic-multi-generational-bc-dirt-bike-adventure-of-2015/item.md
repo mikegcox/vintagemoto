@@ -1,26 +1,25 @@
 ---
 title: 'The epic multi-generational BC dirt bike adventure of 2015'
-summary:
-    enabled: '1'
-    format: short
 taxonomy:
-    author:
-        - 'Mike Cox'
-    month:
-        - April
-    tag:
-        - 'bernie cox'
-        - 'mike cox'
-        - 'pat cox'
-        - 'mac cox'
-        - 'randy'
-        - 'cathy'
-        - BC
-        - 'pat cox'
-        - merritt
     category:
         - Stories
         - 'Modern Adventures'
+    tag:
+        - 'mac cox'
+        - 'mike cox'
+        - 'bernie cox'
+        - 'pat cox'
+        - randy
+        - cathy
+        - BC
+        - merritt
+    month:
+        - April
+    author:
+        - 'Mike Cox'
+summary:
+    enabled: '1'
+    format: short
 ---
 
 Here is a story from the modern era of dirt-biking and family fun.  In 2014 I took my daughter Rose to B.C. for a vacation- a respite from the horrible events that had consumed our family for longer than I care to think about.  We had a great time and as good fortune would have it, it has become an annual event.  This story recalls the events of the second annual trip to B.C. to ride dirt-bikes.
@@ -89,6 +88,9 @@ In retrospect, this is the very moment at which paying closer attention to the c
 So there I am riding the most powerful dirt-bike that money can buy. I have decades of riding experience and I even have some B.C. riding experience.  I see Randy turn right and I see Pat telling me to climb the nastiest fucking hill I have yet to attempt. But I have faith in my brother. He would never steer me wrong, so I does-as-he-says and up I go thinking it must not be as bad as it looks.  So much faith do I have in my brother that I don't even go hard on the throttle. I am going to rely on the massive amount of torque I have at my disposal and cruise right up.  It didn't take me long to realize that I was not going to make this hill with the momentum I had and that this was all some kind of mistake or a sick practical joke.
 
 The "XR" has a single track going up and it seems to get steeper as you climb.  To the left of this single track is a wash where the rain water and melting snow flows and "washes" away the sand leaving just clean round rocks.  To the right is bush and there is no way to just arc a turn and come back down.  So I decide to grab a little something from my bag of tricks.  I slide back on the seat and blip the throttle bringing the front wheel just off the ground and I drop the bike hard to the left.  My goal was to pivot 180-degrees and go back down the way I came without dropping or stopping.  It worked pretty well but I only managed about 120-degrees of rotation which put me right inside the wash.  Now perhaps at this point, the best thing to do would be to drop the bike but I felt I could ride it out and come through unscathed.  I was wrong.  I have crashed many times in my life and there is always that moment where you know it's happening and you brace yourself for the inevitable.  In this case however, there was no "moment". I just crashed.  The wash I was riding in was like riding on marbles and the hill was steep. The brakes did nothing for me and then suddenly my head slammed into the side of the wash.  From the bottom, my fellow riders watched in horror thinking I was a dead man.
+
+![](https://youtu.be/2ldBjejoobo)
+### Mac thinking he had is GoPro on, had it off so rather than catching the fateful event on video, he only managed to capture the aftermath.
 
 I was not dead though, just hurt.  Hurt bad.  My left ankle was badly twisted and I had some mighty sore ribs.  So sore was I that I couldn't possibly pick the bike up and cart it back down the hill.  I limped down the hill and Pat climbed up to get the bike.  This was 10-minutes into our ride and we had to make a choice on what to do next.  I decided that perhaps I could "ride it off".  "Ride it off" refers to a dirt biker's deep desire keep going theorizing that adrenalin will assist in relieving the pain.  It could also be called "denial".  
 
