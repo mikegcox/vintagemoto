@@ -105,6 +105,15 @@ I started to hit that jump more regularly and by the following day, I was hittin
 
 Thanks Mike, that made my day.  
 
+![Over the head](over-the-head.jpg?cropResize=800,600){.img-responsive}
+### This picture shows the contrast between short landing the jump and clearing it.
+
+![81 Landing](mac-landing.jpg?cropResize=800,600){.img-responsive}
+### This is a photo of Mac landing having cleared the jump on my old bike.  This can also be seen on the GoPro footage of the video posted.  Mac let off the gas just a little ans still cleared the jump.  The suspension is collapsed, but there is enough speed that the landing still felt good.
+
+![Mac landing the 450](mac-450.jpg?cropResize=800,600){.img-responsive}
+### This is Mac landing his 450 at about the same place as he landed the RM.  The modern suspension certainly seems to do a better job of soaking up the impact.
+
 ![](https://youtu.be/XEdsNBMxGQM)
 
 ### Lets finish this story with a video of some dunes riding.  I have ridden in Arizona, but not in the dunes. These guys are hitting really big air.  No shortage of this stuff on YouTube.
