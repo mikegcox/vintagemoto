@@ -94,7 +94,7 @@ In the early 2000s I started riding Motocross after a long hiatus.  What I found
 ![Big air at RCR](Big-air.jpg){.img-responsive}
 ### Me in 2003 on my YZ-250.  I bought it new and really enjoyed it.  As you can see, I am no longer timid.
 
-![Landing at SDL](over-jump.jpg){img-responsive}
+![Landing at SDL](over-jump.jpg){.img-responsive}
 ### This is me jumping the 70' table top at Sand-del-lee.  It was an intimidating jump as there was not a lot of run to get to the ramp.  Looks like a hard landing, but I am on the down-ramp. 
 
 Back to Charleston in August 2016.  After Pat and Mac flew my bike over those big jumps, it was now up to me to get brave and do it too.  I kept hitting that jump and deliberately slowing down and short-landing it.  As mentioned above, that is hard on the body and bike.  What I needed was some kahunas like Pat and Mac.  The more I rode the more comfortable I became and on one lap Mac caught up to me and was riding behind me.  He had his GoPro on his head so it was a perfect time to pull the trigger.  We came out of the turn before the jump and roared toward the jump... second gear, third gear, fourth gear throttle wide open.  I nailed it and flew even farther than Mac did.  I was thrilled.  I was jacked with adrenaline and quite pleased with myself.  That jump is big, but it is predictable.  The ramp is nice and the landing is nice so in the end it was not a big deal.
