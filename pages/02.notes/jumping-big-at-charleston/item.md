@@ -109,7 +109,7 @@ Thanks Mike, that made my day.
 ### This picture shows the contrast between short landing the jump and clearing it.
 
 ![81 Landing](mac-landing.jpg?cropResize=800,600){.img-responsive}
-### This is a photo of Mac landing having cleared the jump on my old bike.  This can also be seen on the GoPro footage of the video posted.  Mac let off the gas just a little ans still cleared the jump.  The suspension is collapsed, but there is enough speed that the landing still felt good.
+### This is a photo of Mac landing having cleared the jump on my old bike.  This can also be seen on the GoPro footage of the video posted.  Mac let off the gas just a little and still cleared the jump.  The suspension is collapsed, but there is enough speed that the landing felt fine.
 
 ![Mac landing the 450](mac-450.jpg?cropResize=800,600){.img-responsive}
 ### This is Mac landing his 450 at about the same place as he landed the RM.  The modern suspension certainly seems to do a better job of soaking up the impact.
