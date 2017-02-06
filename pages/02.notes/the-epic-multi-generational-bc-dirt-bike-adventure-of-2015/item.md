@@ -1,5 +1,7 @@
 ---
 title: 'The epic multi-generational BC dirt bike adventure of 2015'
+date: '02-02-2017 12:43'
+publish_date: '15-05-2016 12:43'
 taxonomy:
     category:
         - Stories
@@ -22,7 +24,11 @@ summary:
     format: short
 ---
 
+UPDATED February 4, 2017.  I added a video from Mac's GoPro
+
 Here is a story from the modern era of dirt-biking and family fun.  In 2014 I took my daughter Rose to B.C. for a vacation- a respite from the horrible events that had consumed our family for longer than I care to think about.  We had a great time and as good fortune would have it, it has become an annual event.  This story recalls the events of the second annual trip to B.C. to ride dirt-bikes.
+
+===
 
 My 50th year on planet Earth was perhaps not the best ever.  It was 2015 and it had the potential to be a good year, but there were a series of unfortunate events that put a damper on a time that was supposed to be all about renewal.  The highly volatile family situation of 2014 simmered down shortly after returning from BC-1 bringing promise of great things to come. But misfortune rained down often for some reason and something needed to be done about it so BC-2 was put into the hopper.
 
