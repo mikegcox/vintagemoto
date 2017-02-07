@@ -52,6 +52,8 @@ I do need to personalize the bike.  I want to put my numbers on it so that I can
 
 I though of asking Pixel Works to make something for me, but decided against is as they don't know what sort of abuse MX bikes go through.  I did not want to go back to Evo-MX or Decal Works in California because it can be a pain to import.  The shipping, duty, exchange and taxes make the price unpredictable so I decided to find a Canadian company.  I found [Ride Industries](http://www.rideltd.com) in BC and talked to them on the phone.  I find the seat on the RM-Z250 to be quite comfortable and I don't want to re-cover it just for aesthetic reasons so I had the idea to make a hybrid.  Use the vintage 1984 look but use the 2013 colours.  
 
+Alan at Ride Industries seemed to get exactly what I was talking about and said the artwork would be included in the very reasonable price.  A few days later I got an email with the couple samples to choose from.  I made my choice and then asked if he could include my logo on it too.  I sent the artwork for my logo and about 30-mintes later I had the sample you see below.  This is perfect for this Vintage Moto guy.
+
 ![](rmz250-2015-cox.jpg?cropResize=800,800){.img-responsive}
 ### So this is what I have.  I think it will look awesome especially when the two bikes are beside each other.
 
