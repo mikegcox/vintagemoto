@@ -27,6 +27,8 @@ summary:
 
 In 2014 my daughter Rose and I went to BC to spend time with my brother Pat, sister Cathy and their families in Merritt BC. For me the highlight of the trip was immersing myself in the dirt bike lifestyle in the hills near Merritt BC.  [In 2015 I went again](http://vintagemoto.ca/notes/the-epic-multi-generational-bc-dirt-bike-adventure-of-2015).  This was to be a more complete family reunion where all of our dirt-bike riding family members would gather.  It was another great vacation except I immediately wounded myself as did my nephew Mike. 
 
+===
+
 In March of 2016, the idea of another trip to BC had not even entered my mind. I was sitting my my car biding some time when the following text conversation transpired.
 
 ![Text 1](txt-1.png){.img-responsive}  
