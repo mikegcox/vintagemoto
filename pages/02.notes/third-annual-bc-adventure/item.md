@@ -188,6 +188,8 @@ So with great trepidation, we headed out the way we came.  I was seeing in my mi
 
 Bernie's phone rang and it was the Thunder Bay SPCA calling asking him if he had lost his dogs.  He had left Murphy and Gracie to stay with some friends out in the country near Thunder Bay.  The dogs would walk out to the end of the driveway and do their business and on this particular day, they were greeted by a passer-by who thought surely they must be lost.  She pulled over the car and called to the dogs who were more than happy to jump in and go for a ride.  Fortunately it was a situation that was easily sorted out but it did take a half hour or more of phone calls.
 
+> This story is still being written.
+
 
 
 
