@@ -67,4 +67,6 @@ Alan at Ride Industries seemed to get exactly what I was talking about and said 
 
 ![](fleet.jpg){.img-responsive}
 
+### A fleet photo.  Ready to go once we lose the snow.
+
 
