@@ -39,18 +39,18 @@ In March of 2016, the idea of another trip to BC had not even entered my mind. I
 
 The initial idea was to go down for a long weekend, perhaps just 5-days.  But Bernie was driving to BC by himself and I thought to myself, "when am I ever going to get another chance to drive across the country with my brother?"  So the long weekend turned into 10-day adventure. I booked one flight to Thunder Bay where Bernie would pick me up at the airport and I booked a second flight home from Vancouver 10-days later.
 
-I didn't leave myself with much time to plan, there was not much to plan anyhow.  The whole trip was rather spontaneous.  I was not planning to go again, instead I was going to get my dirt-bike fixx at home this year by riding my newly-restored 1984 RM-250.
+I didn't leave myself with much time to plan and there was not much to plan anyhow.  The whole trip was rather spontaneous.  I was going to get my dirt-bike fixx at home this year by riding my newly-restored 1984 RM-250.
 
 ![](https://youtu.be/P9OFFpKUzVo)
 
-On April 16th at 2:30 I was greeted at the Thunder Bay airport with the smiling face of my big brother.  "Grab your bag and let's go" he said.  "I have a present for you".  We jumped in his old Yukon Denali with it's large covered bike trailer in tow and drove across the road to Excalibur Motorcycle Works.  We walked in the door and we are greeted with: "He's just finishing up, he will bring it around front for you".
+On April 16th at 2:30 I was greeted at the Thunder Bay airport with the smiling face of my big brother.  "Grab your bag and let's go" he said.  "I have a present for you".  We jumped in his old Yukon Denali with it's large covered bike trailer in tow and drove across the road to Excalibur Motorcycle Works.  We walked in the door and we were greeted with: "He's just finishing up, he will bring it around front for you".
 
 Moments later the "present" was revealed.  It was a brand new 2016 KTM 300 XC.
 
 ![Brand new KTM 300 XC](excalibur.jpg?cropResize=800,800){.img-responsive}
 ### Located across from the airport in Thunder Bay is big-boy-toy store Excalibur where a brand new KTM 300 XC awaited our arrival.
 
-The plan prior to this moment was to drive to Kimberly BC to meet up with Bernie's friend Jordan Hatch where we would take turns riding with Jordan on Bernie's bike.  Even with Bernie and I tag-teaming on a single bike, there was little chance of tiring Jordan Hatch so the plan was sound.  We would have an abundance of machinery upon arriving in Merritt anyhow so sharing a bike was only going to be a minor inconvenience.
+The plan prior to this moment was to drive to Kimberly BC to meet up with Bernie's friend Jordan Hatch where we would take turns riding with Jordan on Bernie's bike.  Even with Bernie and I tag-teaming on a single bike, there was little chance of tiring Jordan Hatch so the plan was sound.  We would have an abundance of machinery upon arriving in Merritt anyhow so sharing a bike then was only going to be a minor inconvenience.
 
 But a minor inconvenience just won't do in the eyes of Bernie Cox.  He swung a deal with Excalibur.  He traded in his 2014 KTM for a 2016 KTM but deferred the trade for two weeks. We got to keep the 2014 and the 2016 was to be mine to break-in.  Life just does not get any better than than that!
 
@@ -64,9 +64,7 @@ With the new bike loaded into the trailer, we were ready to hit the road and put
 ![](busters.mp4){.img-responsive}
 ### A quick stop for some Ribs at Buster's and it's back on the road again.
 
-We pushed on down the road.  The weather fluctuated as much as the scenery.  In Manitoba the snow started to fall and just after Winnipeg we stopped for the night and started driving again in the morning.  We crossed the prairies. First Manitoba then Saskatchewan and into Alberta.  We used our cellphone for GPS a few times to help navigate but GPS is only good at navigating where you tell it to go.  
-
-For some reason we had it in our heads that we needed to go to Calgary.  When talking with Jordan, he mentioned that Calgary was only four and half hours from Kimberly so off we go to Calgary which is where we stopped for the night.  Half way between Medicine Hat and Calgary we got to thinking... Why are we going through Calgary?  We could have stayed south and went directly to Kimberly through the Crowsnest pass. I blame this lack of fore-thought on getting older.
+We pushed on down the road.  The weather fluctuated as much as the scenery.  In Manitoba the snow started to fall and just after Winnipeg we stopped for the night and started driving again in the morning.  We crossed the prairies. First Manitoba then Saskatchewan and into Alberta.  We used our cellphone for GPS a few times to help navigate but GPS is only good at navigating where you tell it to go. For some reason we had it in our heads that we needed to go to Calgary.  When talking with Jordan, he mentioned that Calgary was only four and half hours from Kimberly so off we go to Calgary which is where we stopped for the night.  Half way between Medicine Hat and Calgary we got to thinking... Why are we going through Calgary?  We could have stayed south and went directly to Kimberly through the Crowsnest pass. I blame this lack of fore-thought on getting older.
 
 We got up in the morning, had breakfast and pushed on down the road, we could both taste the destination.  We were in the Rocky Mountains now and it was just a few short hours to reach our destination.  Going from Calgary to Kimberly with its breathtaking beauty made for a great drive. 
 
@@ -96,9 +94,9 @@ We made it to Kimberly fairly early in the day and we also gained a couple hours
 
 ![Trickle Creek Lodge](jordan-montanas.jpg?cropResize=800,600){.img-responsive}
 
-### The restaurant at Trickle Creek is a Montanas where we met Jordan for dinner.
+### The restaurant at Trickle Creek is a Montana's where we met Jordan for dinner.
 
-After getting ourselves checked in at Trickle Creek, we had a short nap and then it was time to prep the bikes for the riding the following day.  The new bike required some setup.  We put an old pipe on it to preserve the new one.  We installed bark busters and did a general once-over.  We also had a few items to look after on the 2014 bike as well.
+After getting ourselves checked in at Trickle Creek, we had a short nap and then it was time to prep the bikes for riding the following day.  The new bike required some setup.  We put an old pipe on it to preserve the new one.  We installed bark busters and did a general once-over.  We also had a few items to look after on the 2014 bike as well.
 
 ![](prep.mp4){.img-responsive}
 
@@ -141,7 +139,7 @@ When Jordie met us for dinner at Montana's, he was late arriving because he spen
 
 We drove out to where we would ride and it was about this time that Bernie started repeating the refrain "I can't believe I don't live here - why don't I live here"?  Bernie and Lynn live in Pickle Lake and even though they have made a great home there, the climate is horrendous.  While we were in short sleeves unloading our bikes in the pine trees, Pickle Lake was getting another big dump of snow.  Once ready, Jordie had asked us if we wanted to start on an easy trail or embark on the challenging stuff right away.  We were happy with whatever he chose so off we went for the challenge.
 
-[A year prior, I hurt myself](http://vintagemoto.ca/notes/the-epic-multi-generational-bc-dirt-bike-adventure-of-2015) within minutes of embarking on our inaugural ride.  I was hurt bad and I kept on riding for a few hours but I was finished for the duration of the vacation.  This year I had to redeem myself.  I was not going to do anything stupid- I would not get hurt.  I wasn't worried about Bernie, he is a smart rider with talent, skill and decades of experience.  I was not worried about Jordie either, he is young and strong and has the mad skills that would leave most awestruck.  But shit happens.  We are riding dirt bikes in foot hills of the Rocky Mountains. Let's hear from Bernie and Jordie.
+[A year prior, I hurt myself](http://vintagemoto.ca/notes/the-epic-multi-generational-bc-dirt-bike-adventure-of-2015) within minutes of embarking on our inaugural ride.  I was hurt bad and I kept on riding for a few hours but I was finished for the duration of the vacation.  This year I had to redeem myself.  I was not going to do anything stupid- I would not get hurt.  I wasn't worried about Bernie, he is a smart rider with talent, skill and decades of experience.  I was not worried about Jordie either, he is young and strong and has the mad skills that would leave most awestruck.  But shit happens.  We are riding dirt bikes in the foot hills of the Rocky Mountains. Let's hear from Bernie and Jordie.
 
 ![](jordan-hurt.mp4){.img-responsive}
 
@@ -180,17 +178,23 @@ So with great trepidation, we headed out the way we came.  I was seeing in my mi
 
 ![Spent](spent.jpg?cropResize=800,800){.img-responsive}
 
-### By this point, Jordan was was feeling a bit spent.  He has been dealing with a great deal of pain for quite long time. You can also see my flat tire in this picture.
+### By this point, Jordan was was feeling a bit spent.  He has been dealing with a great deal of pain for quite a long time. You can also see my flat tire in this picture.
 
 ![Phone call](emergency.jpg?cropResize=800,800){.img-responsive}
 
 ### Bernie got the most bizarre phone call while we were resting.
 
-Bernie's phone rang and it was the Thunder Bay SPCA calling asking him if he had lost his dogs.  He had left Murphy and Gracie to stay with some friends out in the country near Thunder Bay.  The dogs would walk out to the end of the driveway and do their business and on this particular day, they were greeted by a passer-by who thought surely they must be lost.  She pulled over the car and called to the dogs who were more than happy to jump in and go for a ride.  Fortunately it was a situation that was easily sorted out but it did take a half hour or more of phone calls.
+Bernie's phone rang and it was the Thunder Bay SPCA calling asking him if he had lost his dogs.  He had left Murphy and Gracie to stay with some friends out in the country near Thunder Bay.  The dogs would walk out to the end of the driveway and do their business and on this particular day, they were greeted by a passer-by who thought surely they must be lost.  She pulled over and called to the dogs who were more than happy to jump in and go for a ride.  Fortunately it was a situation that was easily sorted out but it did take a half hour or more of phone calls.
 
-> This story is still being written.
+Once the dog situation was put to rest, Jordie came out of his regenerative trance and we embarked on the journey back to base.  Jordie looked at the map on his phone to determine where this gravel road went and decide the best route to take considering the flat tire.  On Google Maps it looked easy-as-pie but some sections were as challenging as memorizing pi.  The road we were on must have been parallel to the one we wanted to be on so we had to take a single-track trail that connected the two.  It was not a long trail but like most trails in BC, there is challenge.   The usual challenge in the form of elevation change, rocks, roots, ruts, trees and broken bike parts.  We came to a hill and Jordie blasted his way to the top with me following. However the top was so far up, you couldn't tell where it was.  The hill just seemed to go up and up and up some more.  Bernie was riding behind me watching me sway wildly from side to side, from one rut to the next fully prepared to stop and help me up.  Climbing that hill with a good tire would be sketchy, doing it with a flat would seem impossible but somehow I made it.  I pulled up beside Jordie and Bernie pulled up beside me.  "I can't believe you made it up that hill!" he said. 
 
+Once on the other side of that hill we found ourselves in the deep pine-tree sand near where we we had parked.  This area was really cool, it was like sand dunes with trees.  A true playground for off-road enthusiasts. Big long natural whoop sections, natural jumps and some wooden ramps for the hard-core jumping crowd.  This playground seemed to go on forever.  It is truly astounding how much terrain there is to cover in any given riding area in BC.  Within a few minutes though, we were back to base. We were very relieved to have made it back despite the challenges.  Upon inspection, we were pleased and surprised to find that there was no damage to the new KTM.  Even the tire was good, all we need to do is swap out the tube. 
 
+Bernie and I loaded up the bikes and Jordie drove himself to the hospital to have his thumb looked at.  Neither Bernie nor I predicted anything more than a sprain. When we did see Jordie later that evening, we learned the sad truth.  It was broken in a few places and his riding was done for at least a few weeks.  Luckily though, he can still fly a helicoptor so it became a good opportunity to call headquarers and book some work in the far north.
+
+![Broken Thumb](broken-or-sprained.jpg?cropResize=800,800){.img-responsive}
+
+### Yup, it was broken all along.  
 
 
 
