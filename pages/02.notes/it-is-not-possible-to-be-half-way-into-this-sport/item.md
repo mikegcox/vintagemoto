@@ -65,4 +65,6 @@ Alan at Ride Industries seemed to get exactly what I was talking about and said 
 
 ![RMZ250](IMG_20170225_1859095.jpg?cropResize=800,800){.img-responsive}
 
+![](fleet.jpg){.img-responsive}
+
 
