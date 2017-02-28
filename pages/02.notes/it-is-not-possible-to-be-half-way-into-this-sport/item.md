@@ -57,16 +57,5 @@ Alan at Ride Industries seemed to get exactly what I was talking about and said 
 ![](rmz250-2015-cox.jpg?cropResize=800,800){.img-responsive}
 ### So this is what I have.  I think it will look awesome especially when the two bikes are beside each other.
 
-![Suzuki RM-Z 250 Left Side](IMG_20170225_1858024.jpg?cropResize=800,800){.img-responsive}
-
-![Suzuki with Vintage Moto graphics](IMG_20170225_1858113.jpg?cropResize=800,800){.img-responsive}
-
-![Suzuki and Puppy](IMG_20170225_1859011.jpg?cropResize=800,800){.img-responsive}
-
-![RMZ250](IMG_20170225_1859095.jpg?cropResize=800,800){.img-responsive}
-
-![](fleet.jpg){.img-responsive}
-
-### A fleet photo.  Ready to go once we lose the snow.
 
 
