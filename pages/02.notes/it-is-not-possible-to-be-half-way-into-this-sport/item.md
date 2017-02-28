@@ -57,5 +57,7 @@ Alan at Ride Industries seemed to get exactly what I was talking about and said 
 ![](rmz250-2015-cox.jpg?cropResize=800,800){.img-responsive}
 ### So this is what I have.  I think it will look awesome especially when the two bikes are beside each other.
 
+#### Update Feb-28-2017.  I have installed the graphics, [have a look](/notes/preparing-the-bikes-for-spring).
+
 
 
