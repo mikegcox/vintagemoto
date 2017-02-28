@@ -31,7 +31,27 @@ Ok, I figured it out. Hopefully this will help anyone google searching for this 
 
 I just got a little 12v LED bulb, an old 12v motorcycle battery, and some wire. Oh, and a digital stop watch. 
 
+> For me, I used a regular Snap-On test light instead of the 12v LED bulb.  Any bulb will do.
+
 Unplug your fuel coupler and wire the light bulb between the red and white with red tracer wires. 
+
+![Fuel Coupler wires](hours-1.jpg?cropResize=800,1200){.img-responsive}
+
+Then, on the right side of the bike remove the blank plug of the black 2-pin connector. Wire the negative side of the battery to the black with white tracer wire, and the positive to the red wire. 
+
+![Fuel Coupler wires](hours-1.jpg?cropResize=800,1200){.img-responsive}
+
+When you put power to the black plug the test light will light up first to show it is working. Then it will shut off and light back up again. The second time it lights up is when it is displaying your engine run time. Every .2 seconds the bulb is lit = 1 hour of run time. (one-second is five-hours) Start the stop watch when it lights up, and stop it when the light shuts off. I did mine a couple times to get an average. For example my bulb recorded 2.4 seconds, so I have about 14 hours on my bike.
+
+It should also be noted that the Suzuki 12v connector has an inline fuse in it on the positive side. I didn't use any fuses. Just be very careful where you are putting power.
+
+Hope someone finds this useful.
+
+---
+
+So I did find that very useful and my light stayed on for 11-seconds so my bike has 55 hours on it which falls right in line with what I was told by the previous owner. I checked the valve clearance, it was well within specification so I decided I would not tear down the top end this year, perhaps next winter.
+
+I took apart the rear suspension components and swingarm and greased all the bearings.  They were all in great shape but it was time for a lube.  I changed the oil, increased the pre-load on the rear shock and I am ready for spring.
 
 
 
