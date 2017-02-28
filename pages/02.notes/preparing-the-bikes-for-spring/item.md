@@ -64,6 +64,7 @@ Installing the new graphics was a bit of a pain, but I did a fairly good job in 
 ![](IMG_20170225_1859095.jpg?cropResize=800,1200){.img-responsive}
 
 ![The old and new](fleet.jpg?cropResize=800,1200){.img-responsive}
+### So friends and family, if you want to go for a ride, I now have a guest bike.  I will ride the vintage one the newer 4-stroke is the buddy bike.
 
 
 
