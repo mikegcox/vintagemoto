@@ -53,5 +53,17 @@ So I did find that very useful and my light stayed on for 11-seconds so my bike 
 
 I took apart the rear suspension components and swingarm and greased all the bearings.  They were all in great shape but it was time for a lube.  I changed the oil, increased the pre-load on the rear shock and I am ready for spring.
 
+Installing the new graphics was a bit of a pain, but I did a fairly good job in the end.  Not perfect, but good enough, it will look a lot worse after a few rides anyhow.
+
+![The right side of the bike](01-rmz250.jpg?cropResize=800,1200){.img-responsive}
+
+![The left side](IMG_20170225_1858024.jpg?cropResize=800,1200){.img-responsive}
+
+![](IMG_20170225_1858113.jpg?cropResize=800,1200){.img-responsive}
+
+![](IMG_20170225_1859095.jpg?cropResize=800,1200){.img-responsive}
+
+![The old and new](fleet.jpg?cropResize=800,1200){.img-responsive}
+
 
 
