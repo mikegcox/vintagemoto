@@ -27,6 +27,8 @@ I read in my owner's manual that you can find how many hours are on the 2013 RM-
 
 #### I found the following instructions on the [VitalMX forum](http://www.vitalmx.com/forums/Race-Shop,42/Reading-engine-hours-on-13-RMZ-250,1270680) posed by Slamdrew
 
+---
+
 Ok, I figured it out. Hopefully this will help anyone google searching for this info like I was. I would think a 2013 RMZ 450 would be the same, but this was done on my 250 to read original hours on the bike. You'll need a second person to make it easier. 
 
 I just got a little 12v LED bulb, an old 12v motorcycle battery, and some wire. Oh, and a digital stop watch. 
