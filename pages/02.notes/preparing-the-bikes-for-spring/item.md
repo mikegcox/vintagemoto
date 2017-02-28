@@ -19,11 +19,11 @@ I went a little overboard with the bike graphics.  I normally would not care in 
 ![Racing in 1983](marathon_of_hope_we_make_it.jpg){.img-responsive}
 ### Pat and I on the way to the races in 1983 as seen through the rear window of a 1967 Volvo.
 
-When I restored the old '84 I did not think twice, I put 81 as the number so it only makes sense that my new bike also sport the same number but in the opposing colour scheme of white on black.  All I really wanted was a set of numbers, but I opted to spend a few extra dollars and do the rad shrouds and swingarm too.
+When I restored the old '84 I did not think twice, I put 81 as the number so it only makes sense that my new bike also sport the same number but in the opposing colour scheme of white on black. All I really wanted was a set of numbers, but I opted to spend a few extra dollars and do the rad shrouds and swingarm too.
 
 I brought the bike down to the marina to work on it. I have a bit of a workshop at home but it is in my basement. I would have to take the bike apart to get it down the stairs.  My trailer is buried in 16-inches of ice and snow and blocked in behind a 7-foot high snow bank so I had to drive the bike to the shop by driving 3-KM down the Ottawa River and I made it just as the rain started to fall.
 
-I read in my owner's manual that you can find how many hours are on the 2013 RM-Z250 buy connecting a battery and a test light.  All you need to do is buy the connectors from Suzuki.  Instead I looked up on the Internet how to make your own. 
+I read in my owner's manual that you can find how many hours are on the 2013 RM-Z250 by connecting a battery and a test light.  All you need to do is buy the connectors from Suzuki.  Instead I looked up on the Internet how to make your own. 
 
 #### I found the following instructions on the [VitalMX forum](http://www.vitalmx.com/forums/Race-Shop,42/Reading-engine-hours-on-13-RMZ-250,1270680) posed by Slamdrew
 
