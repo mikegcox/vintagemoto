@@ -37,12 +37,14 @@ Contrary to popular belief, riding Motocross in Atikokan was not the sole reason
 In hindsight, I may have spent too many days at the track, which may or may not have caused the last two days before the wedding to be extremely hectic… And stressful. I have a very understanding wife.
 
 For months prior to the wedding I would comment on my Uncle Mike’s posts about his beautifully restored RM, and how I was going to crash it. I would say things like, “Wow you guys did a really good job restoring that bike, it looks great! I can’t wait to ugly it up at my wedding”. In reality, I had no plans of the sort. In fact, prior to watching my Dad hit every jump like that, I had already decided to take it easy.
+
 The last Suzuki I rode, a 2006 RM 250, was not exactly a smooth jumping machine. I always seemed to land sideways, or with my front end pointed to the moon, so I had assumed the ‘84 RM would give me the same grief. After watching my Dad stretch out the 110 footer, I knew I was going to have to swallow my fear of jumping the old yellow beast, or suffer ridicule from him.
 
 ![A Honda rider](honda-rider.jpg?cropResize800,800){.img-responsive}
 ### A Honda rider, whose name I forgot, that showed up on our second day at the track. He was an excellent rider, and I enjoyed riding with him.
 
 There was no doubt in my mind that I could do a “better lap” than my Dad, as I was riding faster than I had ever ridden in my life over the last few days. Our second day at the track, I remember my Dad and I watching a Honda rider spinning out fast laps on the track. As we were getting geared up we both watched in awe talking about how he is going to make us look bad. The wife of course looks at me, chin held high, “Nope, you’re faster”. My Dad and I both disagreed, he just looked so fast. So my Dad decided he would pull out a little bit ahead of the Honda rider when he went out for his next set of laps to “make him work hard to get around me”, as he put it. So he pulled ahead of the guy on the Honda, and I followed behind the Honda rider. The Honda guy was fast, but it turns out my wife was right, I was faster. Halfway through the first lap I passed the guy on the honda, and 4 corners later I passed my Dad.
+
 Back to the story at hand, my confidence was up, Uncle Mike had proven the old bike could go fast, and now my Dad had proven it could also fly. As I slung my leg over the Suzuki, I still wasn’t planning on riding very aggressively. At first it felt alien to me, the footpegs were incredibly narrow, and the seat had a deep dip in the middle which felt awkward. 
 
 ![Foot Pegs](foot-pegs.jpg?cropResize800,800){.img-responsive}
