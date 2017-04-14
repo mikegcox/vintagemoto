@@ -51,7 +51,8 @@ Mikes’ “True Story”: My brother tells me that he and Donny Thorson fixed t
 
 Pats’ “True Story”: Just as my brother claims that “Dad has no idea what he’s talking about”, my Dad claims “Mike is full of shit”. According to my Dad, they did not in modify the head and cylinder from a 1998, but instead tried to fix the split cylinder and head. By his account, the bike ran a few times and then subsequently grenaded itself destroying top and bottom end. It was at that point that the engine and exhaust from a 1998 was placed into the 2001 frame. He states that he bought it off Joe Benjamin (also passed away) that he sold him both the 2001 of Eric Natty’s and the 1998 that the replacement engine came out of. (On a side note I am realizing as I write this that the bike may be cursed, as 3 out of the past 5 owners are now dead…. Hmmmm.)
 
-So who do I beleive? My Dad (to the right), who’s memory isn’t always “on point” or my brother (to the left), who was admittedly drunk at the time, and tends to embellish these sorts of things. (When cornered in a lie Mike likes to proclaim “Never let the truth interfere with the legend”)
+Picture here
+### So who do I beleive? My Dad (to the right), who’s memory isn’t always “on point” or my brother (to the left), who was admittedly drunk at the time, and tends to embellish these sorts of things. (When cornered in a lie Mike likes to proclaim “Never let the truth interfere with the legend”)
 
 Rather than foolishly choosing to believe either story as being fact, I decided to take the serial number from the engine cases to my local Honda dealership to find out once and for all what year the engine is. This time “Crazy Forgetful Old Guy” was correct over “Drunky the self proclaimed Legend”. The engine is a 1998, and so I have ordered a clutch plate & spring kit, throttle tube, levers, silencer, and a few other odds and ends. Unfortunately, I will not be able to instal said parts until I can make room.
 
