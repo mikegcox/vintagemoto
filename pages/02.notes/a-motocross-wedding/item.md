@@ -29,14 +29,14 @@ So why would I try to make an 84 RM fly? My Uncle Mike was right on the money, I
 
 > This story is part counter-story to [So how far can you safely jump a 1984 Suzuki?](http://localhost/vintagemoto.ca/notes/jumping-big-at-charleston)
 
-Contrary to popular belief, riding Motocross in Atikokan was not the sole reason for having the wedding there. My now wife Arren’s parents were both grew up in the nearby city of Thunder Bay. And so, her extended family, including grandparents whom have difficulties travelling far, reside in Thunder Bay, making Atikokan a central location for family spread out across the country. 
+Contrary to popular belief, riding Motocross in Atikokan was not the sole reason for having the wedding there. My now wife Arren’s parents both grew up in the nearby city of Thunder Bay. And so, her extended family, including grandparents whom have difficulties travelling far, reside in Thunder Bay, making Atikokan a central location for family spread out across the country. 
 
 ![wedding day](wedding.jpg){.img-responsive}
 ### My very understanding wife and I on our wedding day.
 
 In hindsight, I may have spent too many days at the track, which may or may not have caused the last two days before the wedding to be extremely hectic… And stressful. I have a very understanding wife.
 
-For months prior to the wedding I would comment on my Uncle Mike’s posts about his beautifully restored RM, and how I was going to crash it. I would say things like, “Wow you guys did a really good job restoring that bike, it looks great! I can’t wait to ugly it up at my wedding”. In reality, I had no plans of the sort. In fact, prior to watching my Dad hit every jump like that, I had already decided to take it easy.
+For months prior to the wedding I would comment on my Uncle Mike’s posts about his beautifully restored RM and how I was going to crash it. I would say things like, “Wow you guys did a really good job restoring that bike, it looks great! I can’t wait to ugly it up at my wedding”. In reality, I had no plans of the sort. In fact, prior to watching my Dad hit every jump like that, I had already decided to take it easy.
 
 The last Suzuki I rode, a 2006 RM 250, was not exactly a smooth jumping machine. I always seemed to land sideways, or with my front end pointed to the moon, so I had assumed the ‘84 RM would give me the same grief. After watching my Dad stretch out the 110 footer, I knew I was going to have to swallow my fear of jumping the old yellow beast, or suffer ridicule from him.
 
@@ -50,7 +50,7 @@ Back to the story at hand, my confidence was up, Uncle Mike had proven the old b
 ![Foot Pegs](foot-pegs.jpg?cropResize800,800){.img-responsive}
 ### This picture really showcases how narrow the foot pegs are.
 
-I pulled up to the start line, with some trepidation, and decided to just hold it wide open down the start hill… Just to see how it would feel. All feelings of awkwardness vanished as soon as I cracked the throttle. The engine was a lot more snappy than I had anticipated, having incredible power in the midrange. As I roared down the hill and came to the uphill, first corner, I didn’t back down. The bike no longer felt alien to me, I had become completely at home. I hit the first jump, the bike didn’t do anything unexpected. I will admit, I was a little hard on the clutch as many years of four stroke riding has made me forget how to ride a two stroke a bit. I kept a finger on the clutch most of the time, and would feather it now and then to get me back into the power. When it came to the 110 foot jump I didn’t hesitate. I hit the outside line and approached the ramp with a lot of speed. As I usually do, I backed off a little going over the ramp to just make it to the landing ramp. (I had come pretty close to overjumping the jump a few times, and watched My Dad almost do it as well)
+I pulled up to the start line, with some trepidation, and decided to just hold it wide open down the start hill… Just to see how it would feel. All feelings of awkwardness vanished as soon as I cracked the throttle. The engine was a lot more snappy than I had anticipated, having incredible power in the midrange. As I roared down the hill and came to the uphill, first corner, I didn’t back down. The bike no longer felt alien to me, I had become completely at home. I hit the first jump, the bike didn’t do anything unexpected. I will admit, I was a little hard on the clutch as many years of four-stroke riding has made me forget how to ride a two-stroke a bit. I kept a finger on the clutch most of the time, and would feather it now and then to get me back into the power. When it came to the 110 foot jump I didn’t hesitate. I hit the outside line and approached the ramp with a lot of speed. As I usually do, I backed off a little going over the ramp to just make it to the landing ramp. (I had come pretty close to overjumping the jump a few times, and watched My Dad almost do it as well)
 
 ![](https://youtu.be/xXik70IrQBw)
 ### Some onboard footage of jumping 110’ on the Suzuki, I put the jumping portion in slow motion so you can really appreciate the distance covered.
@@ -62,4 +62,4 @@ I didn’t have a flawless lap, but it was not the bike at fault. I briefly hit 
 
 So, how does one make an 84 RM fly? The same way you would any bike. A lot has changed on motocross bikes over the last few decades, but at the end of the day they are all just as capable of flight as a new bike.
 
-I had a great time riding with my family and friends this summer, and look forward to the next time we can all meet up again. It never ceases to amaze me how fast my Dad, and Uncles (who are all over 50) can ride. 
+I had a great time riding with my family and friends this summer and look forward to the next time we can all meet up again. It never ceases to amaze me how fast my Dad and Uncles (who are all over 50) can ride. 
