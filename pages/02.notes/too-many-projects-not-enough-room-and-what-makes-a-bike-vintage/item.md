@@ -45,8 +45,6 @@ The ZR project would prove to be the only project I would complete throughout th
 
 My next project is where the “what makes a bike vintage” comes into play. Last summer I picked up a bike that had been gifted to my Dad. My Dad bought the bike many years ago, brought it up to Pickle Lake, and sold it to Trevor Jonasson, a pilot who worked for my Uncle Bernie and was also a close friend to us Coxes. A few years back he passed away in a plane crash and last summer his girlfriend Betsy gifted it to my Dad. I picked it up, and my Dad and I decided it would be a good idea to leave it with me in Grande Prairie. I could use it as my single track bike, and I would have a spare bike when family or friends would come to visit. I am still not 100 percent certain what exactly this bike is. Explanations of its rocky history differ between my Brother and my Dad.
 
-![The vintage bike](DSC_1088.JPG?cropResize=800,800){.img-responsive}
-
 What I know to be fact, is the bike was originally a 2001 CR 250 owned by Eric Natty of Atikokan. (Another close friend of the Coxes who unfortunately has also passed away) The next undisputed fact of this Honda's history is that it was next owned by Kyle Bates, a friend of my Brothers. We know that he left water in the radiator and over the winter it froze, and cracked the cylinder head. Here is where my Dad’s and my Brother’s recollection of past events differ.
 
 Mikes’ “True Story”: My brother tells me that he and Donny Thorson fixed the CR with heavy modifications. He states that they simply modified the cylinder and head from a 1998 CR 250 to work on the 2001 crank cases. So according to him, the bottom end is the original 2001, and the top end is a 1998.
@@ -65,7 +63,8 @@ So how exactly does “vintage” fit in here? From the moment my Uncle Mike ann
 
 So considering that the body is 16 years old, but the engine is 19 years old, we can maybe call it close enough. As for the second classification, I found that 1998-2001 are very significant years for the CR 250. It is said that those were the last “good years” for the engine of the CR 250. In 2002 a electronic power valve, and a few other poor modifications were made that marked the beginning of the end for the CR 250. There are many companies, and people in general, who specialize in putting 2 stroke engines from bikes no longer in production, into modern bodies. In all my research, I found that for Honda 2 stroke project, the desired year was always between 1998-2001.  I also found that in 2003 Honda’s President, Takeo Fuck-You… I mean Fukui, announced that Honda was going to start immediately phasing out 2 stroke engines. They continued to make the 250 for 4 years after that, 2007 being the last year. It’s worth noting that over those 4 years the refinements made to the frame and suspension were great improvements. Unfortunately most people found the engine was never quite as good after 2001.
 
-So I’m going to go ahead and claim this to be a “Vintage” bike.
+![The vintage bike](DSC_1088.JPG?cropResize=800,800){.img-responsive}
+### So I’m going to go ahead and claim this to be a “Vintage” bike.
 
 After all of that, I still have 2 more projects to complete. The first project being the wife’s quad, a 2006 Raptor 350. I don’t have much to do it. Thankfully, I need only to instal the new silencer with spark arrestor that is on order, and put new tires on the front. (A job I should have done 2 seasons ago) The final project, at least for now, is on my friend Jose’s 2007 RM 250. One of the front forks, and the rear shock are leaking. The fork I may be able to use a “seal saver” tool on, but the rear has already had that trick done to it and is still leaking. So I will be replacing one seal for sure, perhaps two.
 
