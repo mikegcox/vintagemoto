@@ -7,11 +7,11 @@ taxonomy:
         - Stories
         - 'Modern Adventures'
     tag:
-        - 'first ride'
         - Suzuki
-        - RM-Z250
-        - calabogie
         - riding
+        - calabogie
+        - 'first ride'
+        - RM-Z250
     month:
         - March
     author:
