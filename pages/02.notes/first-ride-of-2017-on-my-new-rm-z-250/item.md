@@ -25,7 +25,7 @@ Last fall I went for one last ride for the the 2016 season.  I went to Limerick 
 So I found myslef a 2013 RM-Z250 for $3500-  [there is no way to be half way into this sport](http://vintagemoto.ca/notes/it-is-not-possible-to-be-half-way-into-this-sport). I did some service over the winter so it was ready to go come Spring.  I kept my bikes at the marina where I work part-time and one lovely day last week I pulled them out of the barn and fired them up.
 
 ![The fleet](fleet.jpg?cropResize=800,800){.img-responsive}
-### The Vintagemoto.ca custom graphics kit on the new bike turned out great.  I love the retro look on this totally modern piece of machinery.
+### The Vintagemoto.ca custom graphics kit on the new bike turned out great.  I love the retro look on this totally modern piece of machinery.  My vintage bike is also looking great after fixing up all the damage done by dropping off a moving trailer.
 
 Yesterday I pulled my trailer out of the woods and over top of the remaining snow bank in my yard.  I blew up the tires and checked the wheel bearings and drove down to the Marina and picked up the new bike.  Today the weather was perfect for a ride so I decided to go to Campbell Road near Calabogie.  I have ridded there several times now and I like it even though you can cover all the terrain fairly quickly.  Here in Dunrobin, the snow is almost completely gone but the closer I got to Calabogie, the more snow there was.  I parked the car and walked through the snow to discover the forest was snow-free for the most part.
 
