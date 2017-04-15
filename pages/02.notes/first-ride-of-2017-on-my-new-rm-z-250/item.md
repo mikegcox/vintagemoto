@@ -36,4 +36,4 @@ Today was a good day.  I love my new bike! I don't have a single complaint other
 ![A little dirty](trailering.jpg?cropResize=1000,1000){.img-responsive}
 ### No pictures or videos today, no GPS track either- I forgot my phone at home today.  Best I can do is show that there is a bit of dirt on my beautiful new bike.
 
-Tomorrow I ride again.  My wife's cousin Bill Fretts has invited me up to his cottage for a bit of trail riding.  I am not sure what to expect, new terrain, snow in the bush, high-water, new riding mate, new bike.  That last part is not a problem for sure, I put that worry behind me today.
+Tomorrow I ride again.  My wife's cousin Bill Fretts has invited me up to his cottage for a bit of trail riding.  I am not sure what to expect... new terrain, snow in the bush, high-water, new riding mate, new bike.  That last part is not a problem for sure, I put that worry behind me today.
