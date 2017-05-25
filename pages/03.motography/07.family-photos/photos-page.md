@@ -1,6 +1,6 @@
 ---
-default_image: 'mac-winter-2015.jpg'
-title: "Random family photos"
+title: 'Random family photos'
+default_image: mac-winter-2015.jpg
 show_captions: true
 ---
 
