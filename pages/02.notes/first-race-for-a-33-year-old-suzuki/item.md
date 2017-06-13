@@ -9,9 +9,9 @@ taxonomy:
     tag:
         - '250'
         - Suzuki
-        - Racing
-        - rmz-250
         - rm250
+        - rmz-250
+        - Racing
         - calabogie
         - kmmx
         - plasse
@@ -24,3 +24,5 @@ taxonomy:
 ---
 
 When I bought my old '84 RM, one of the goals was to race it.  What I had in mind was a race where I could enter into a vintage race event.
+
+![](IMG_20170611_1743033.jpg){.img-responsive}
