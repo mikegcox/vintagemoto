@@ -88,6 +88,6 @@ Not exactly a day at the Canadian Nationals, but like I always say... "Everybody
 ![Pete McPhail](homeward.jpg){.img-responsive}
 ### What a great day at [KMMX](http://www.kmmx.ca).  Special thanks to the Kopetoske family for hosting the event.
 
-##### While this blog is mostly personal reflections, and I have no delusions of grandeur. It is a creative outlet, something I do for fun.  I will happily post anybody's stories, email your words and pictures to: [mcox@mcox.ca](mailto:mcox@mcox.ca).
+##### While this blog is mostly personal reflections, and I have no delusions of grandeur, It is a creative outlet, something I do for fun.  I will happily post anybody's stories, email your words and pictures to: [mcox@mcox.ca](mailto:mcox@mcox.ca).
 
 
